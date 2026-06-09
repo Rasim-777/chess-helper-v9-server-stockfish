@@ -1,7 +1,7 @@
 {
-  "name": "Chess Profi Helper v9 Server Stockfish",
-  "short_name": "Chess v9",
-  "description": "Server-side Stockfish chess engine.",
+  "name": "Chess Helper v10 Stable Server",
+  "short_name": "Chess v10",
+  "description": "Stable server-side Stockfish.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#07111f",

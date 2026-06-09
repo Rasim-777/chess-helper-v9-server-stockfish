@@ -1,5 +1,5 @@
 {
-  "name": "chess-helper-v9-server-stockfish",
+  "name": "chess-helper-v10-stable-server-stockfish",
   "version": "1.0.0",
   "private": true,
   "type": "module",
